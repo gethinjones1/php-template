@@ -1,0 +1,1 @@
+{"version":2,"defects":{"AverageTest::testCalculationOfMean":8,"AverageTest::testCalculationOfMedian":8,"AverageTest::testIntVal":7},"times":{"AverageTest::testCalculationOfMean":0,"AverageTest::testCalculationOfMedian":0,"AverageTest::testIntVal":0.002}}
